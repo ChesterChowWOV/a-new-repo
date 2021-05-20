@@ -19,5 +19,5 @@ If, you want to separate the html part and the css part in different documents, 
 <link rel="stylesheet" href="style.css">
 
 Then edit the css file as usual as on codepe
-*if you changed the css file name pls also change the "href" string from style.css to your css file name
+*if you changed the css file name pls also change the "href" string from style.css to your css file name!
 
