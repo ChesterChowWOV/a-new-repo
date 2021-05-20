@@ -1,0 +1,18 @@
+body, html {
+  min-width: 100%;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  font: Arial 14px;
+}
+
+.button{
+   background: lime;
+   color: black;
+   text-align: center;
+   display: block;
+   width: 200px;
+   height: 200px;
+   margin-left: auto;
+   margin-right: auto;
+}
