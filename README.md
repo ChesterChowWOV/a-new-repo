@@ -17,8 +17,9 @@ margin-right: auto;
 ```
 ## Method 2
 If, you want to separate the html part and the css part in different documents, make sure they are in the same folder. Then, use this in your html `<head>` tag:<br>
-`html
-<link rel="stylesheet" href="style.css">`
+```html
+<link rel="stylesheet" href="style.css">
+```
 
 Then edit the css file as usual as on codepen<br>
 *If you changed the css file name pls also change the "href" string from style.css to your css file name!*
