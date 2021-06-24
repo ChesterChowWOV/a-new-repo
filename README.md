@@ -2,7 +2,7 @@
 ## Method 1
 If you mean in one document or code, use the <style></style> tag and put your css code inside the style tag. (Must put it in `<head></head>`)
 For example: 
-`<html>
+```<html>
 <head>
 <style>
 .centertext{
@@ -13,7 +13,7 @@ margin-right: auto;
 }
 </style>
 </head>
-`
+```
 ## Method 2
 If, you want to separate the html part and the css part in different documents, make sure they are in the same folder. Then, use this in your html `<head>` tag:
 `<link rel="stylesheet" href="style.css">`
